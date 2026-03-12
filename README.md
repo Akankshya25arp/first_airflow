@@ -1,7 +1,7 @@
-Project Title
+Project Title :
 Apache Airflow CSV ETL Pipeline
 
-Description
+Description:
 This project demonstrates a simple ETL pipeline built using Apache Airflow 
 running locally with Docker.
 
@@ -12,9 +12,13 @@ The pipeline processes a CSV file by performing the following steps:
 
 This project demonstrates workflow orchestration, task dependencies,
 and file-based data pipelines using Apache Airflow.
-Pipeline Architecture
+
+
+Pipeline Architecture:
 check_file → load_csv → move_file
-Technologies Used
+
+
+Technologies Used:
 
 Apache Airflow
 
@@ -24,7 +28,7 @@ Python
 
 Pandas
 
-How to Run
+How to Run:
 docker compose up
 
 Open Airflow UI:
