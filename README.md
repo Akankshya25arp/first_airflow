@@ -29,4 +29,4 @@ docker compose up
 
 Open Airflow UI:
 
-http://localhost:8080
+http://localhost:8081
